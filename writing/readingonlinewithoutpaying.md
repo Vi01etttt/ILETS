@@ -1,0 +1,2 @@
+nowadays,with the techology innovation,reading books online seems to be a better chocie compared with reading offline,forwitch readers can obtain any books without pay,generlly speaking,i partly agree with this view.
+as far as i am concerned,reading is a matter of obtainning information. we read to acquire knowledge
