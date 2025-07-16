@@ -9,3 +9,7 @@ the added sugar,which takes from breakfast,take up the trival and minimal percen
 > minimal added sugar taken in from the breakfast 
 Only a minimal amount of added sugar is consumed at breakfast.
 Very little added sugar is taken in during breakfast.
+
+> $\color{red}{elementary}$ teachers had the shortest teaching time ini all four countries but primary school yeachiers from the US 
+Itis also noteworthy that.. $\color{red}{two-thirds}$ of that in the USA.
+
