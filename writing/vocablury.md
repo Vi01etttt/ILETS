@@ -33,3 +33,23 @@ the remainder Ten students passed; the remainder failed
 
  descending 递减
  ascending 递增
+
+ roundabout 环岛
+
+ water closet
+
+ orient 起源
+ originate 起源
+ catalyst 催化剂
+ xxx can also serve as a catalyst for the creation of new industries and retraining opportunities.//客观存在但是可以转换为机遇
+ 
+ autonomous 无人驾驶汽车
+ // self-driving car
+
+ rent 租金 
+ fare 票价 停车费用
+ pension 养老金 
+ salary 工资
+ wage 工资
+ income 收入
+ deposit 存款
