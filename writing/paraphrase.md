@@ -3,7 +3,8 @@ invasive culture
 health care medical treatment
 consequence
 
-dweller citizen resident inhabitant urban population
+dweller citizen resident inhabitant urban population individuals people
+
 
 increasingly = more and more = > in ever greater numbers.//ever 代表持续的
 
@@ -20,12 +21,10 @@ narrowed cramped constricted
 pocket garden
 
 Worse still.
+
 On the one hand 
 
-
 government authority council
-
-individuals people
 
 suitable deserve assume（担任）
 
@@ -53,3 +52,5 @@ crime offence criminal act
 punishment sanction
 
 distinction between right and wrong
+
+home house household
