@@ -160,3 +160,5 @@ discipline 惩罚
 time-out 暂停 休息 留堂
 
 reinforce 加强
+
+hygiene 卫生
