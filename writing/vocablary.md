@@ -162,3 +162,16 @@ time-out 暂停 休息 留堂
 reinforce 加强
 
 hygiene 卫生
+
+inventiveness n.
+
+exacerbate 加剧
+
+cure-all
+
+dimensional 
+
+none
+
+
+**high-end**高端 it feels high-end

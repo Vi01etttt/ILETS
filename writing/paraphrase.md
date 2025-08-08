@@ -36,6 +36,8 @@ hatch into 孵化
 centimeter millimeter
 
 maintenance / maintan /preserve
+
+
 average consumer = common consumer
 
 customer consumer custom
@@ -54,3 +56,7 @@ punishment sanction
 distinction between right and wrong
 
 home house household
+
+sleek elegant 
+
+elegancy sleekness
